@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  max-width: 800px; /* largeur maximale */
+  margin: 0 auto; /* centrer le container */
+  text-align: center;/* centrer le texte */
+
+}
+
+div.entete{
+background-color: #E3D559;
+overflow: auto;
+white-space: nowrap;
+width:100% ;
+padding-right: 40px;
+margin-bottom: 20px;
+}
+
+div.entete a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.entete a:hover {
+  background-color: #777;
+}
