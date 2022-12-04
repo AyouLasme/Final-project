@@ -88,3 +88,13 @@ hr{
   height: 94%;
   width: 100%;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E3D559;
+  color: black;
+  text-align: center;
+}
