@@ -21,8 +21,32 @@ div.entete a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 div.entete a:hover {
   background-color: #777;
 }
+
+.mem{
+  background-color:grey;
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  font-style: italic;
+}
+
+.im{
+  width:105%;
+}
+
+hr{
+   height: 1px;
+   background-color: #e5e5e5;
+   border: none;
+ }
